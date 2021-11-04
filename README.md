@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sanila Ranatunga</h1>
+<h1 align="center">Hey i'am Sanila Ranatunga <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
+
+
+<h2 align="center">Hi 👋, Follow me and give me support🔥</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanila2007&label=Profile%20views&color=0e75b6&style=flat" alt="sanila2007" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanila2007" alt="sanila2007" /></a> </p>
