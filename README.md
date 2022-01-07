@@ -2,20 +2,22 @@
   
 <img align="senter" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:50%;">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanila2007&label=Profile%20views&color=0e75b6&style=flat" alt="sanila2007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanila2007" alt="sanila2007" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanila2007" alt="sanila2007" /></a> 
 
-<p align="left">- 🚶‍♂️ I'm live in: Sri Lanka</p>
+<ul type = square>
+<li align="left">🚶‍♂️ I'm live in: Sri Lanka</p></li>
 
-<p align="left">- 👨‍💻 All of my projects are available at: https://github.com/sanila2007</p>
+<li align="left">- 👨‍💻 All of my projects are available at: https://github.com/sanila2007</li>
 
-<p align="left">- 🌱 I’m studying in: Royal College Colombo 7</p>
+<li align="left">- 🌱 I’m studying in: Royal College Colombo 7</li>
 
-<p align="left">- 🤝 I’m interested in: developing softwares.</p>
+<li align="left">- 🤝 I’m interested in: developing softwares.</li>
 
-<p align="left">- ⚡ Fun fact: I'm now 14 years old boy😅</p>
+<li align="left">- ⚡ Fun fact: I'm now 14 years old boy😅</li>
+  
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
