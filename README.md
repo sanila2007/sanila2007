@@ -9,13 +9,13 @@
 <ul type = square>
 <li align="left">🚶‍♂️ I'm live in: Sri Lanka</p></li>
 
-<li align="left">- 👨‍💻 All of my projects are available at: https://github.com/sanila2007</li>
+<li align="left"> 👨‍💻 All of my projects are available at: https://github.com/sanila2007</li>
 
-<li align="left">- 🌱 I’m studying in: Royal College Colombo 7</li>
+<li align="left"> 🌱 I’m studying in: Royal College Colombo 7</li>
 
-<li align="left">- 🤝 I’m interested in: developing softwares.</li>
+<li align="left"> 🤝 I’m interested in: developing softwares.</li>
 
-<li align="left">- ⚡ Fun fact: I'm now 14 years old boy😅</li>
+<li align="left"> ⚡ Fun fact: I'm now 14 years old boy😅</li>
   
 </ul>
 
