@@ -9,7 +9,7 @@
 <ul type = square>
 <li align="left">🚶‍♂️ I'm live in: Sri Lanka</p></li>
 
-<li align="left"> 👨‍💻 All of my projects are available at: https://github.com/sanila2007</li>
+<li align="left"> 👨‍💻 All of my projects are available at: <href="https://github.com/sanila2007"> here</a></li>
 
 <li align="left"> 🌱 I’m studying in: Royal College Colombo 7</li>
 
