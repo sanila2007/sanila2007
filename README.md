@@ -1,4 +1,4 @@
-<h1 align="center">Hey I'm Sanila Ranatunga <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
+<h1 align="center">Hey, I'm Sanila Ranatunga <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
   
 <img align="senter" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:50%;">
 
@@ -18,6 +18,8 @@
 <li align="left"> ⚡ Fun fact: I'm now 14 years old boy😅</li>
   
 </ul>
+
+<img align="center" width="100%" height="100%" src="https://telegra.ph/file/46348bc1889b6624ba6be.jpg">
 
 
 <h1 align="left">Something about me...</h1>
@@ -45,14 +47,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanila2007&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sanila2007" /></p>
 <br>
 <br>
-
-
-
-
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanila2007&show_icons=true&theme=dracula&locale=en" alt="sanila2007" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanila2007&theme=highcontrast" alt="sanila2007" /></p>
 
 <!---
