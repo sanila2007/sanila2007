@@ -30,7 +30,7 @@
 |  Language Skills  | Python, HTML |
 |  Still Learning | JS, CSS |
 |  Telegram    | [![Telegram](https://img.shields.io/badge/Sanila%20Ranatunga-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/sanilaranatunga)&nbsp;|
-| Github | [![Github](https://img.shields.io/badge/Github-000000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github)](https://github.com/sanila20017) |
+| Github | [![Github](https://img.shields.io/badge/Github-000000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github)](https://github.com/sanila2007) |
   
 
 
