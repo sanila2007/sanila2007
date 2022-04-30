@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanila2007&label=Profile%20views&color=0e75b6&style=flat" alt="sanila2007" /> </p>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanila2007" alt="sanila2007" /></a> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanila2007&theme=dracula" alt="sanila2007" /></a> 
 
 <ul type = square>
 <li align="left">🚶‍♂️ I'm live in: Sri Lanka</p></li>
