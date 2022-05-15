@@ -19,6 +19,7 @@
   
 </ul>
 </small>
+
 <img align="center" width="100%" height="100%" src="https://telegra.ph/file/46348bc1889b6624ba6be.jpg">
 
 
@@ -74,10 +75,9 @@
 
 ### Contribution Graph:
 
-
+<details>
 <a href="https://github.com/sanila2007"><img alt="Abir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sanila2007&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-<details>
   <summary>Activity Metrics</summary>
   <br/>
 <p align="left"> <a href="https://github.com/sanila2007"><img src="https://metrics.lecoq.io/sanila2007?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta" alt="sanila2007" /></a> </p>
