@@ -18,11 +18,11 @@
 | **** |  ****   |
 |------------|---------------------|
 |   Nme   | Sanila Ranatunga |
-|   Age   | 14 |
+|   Age   | 15 |
 | Hobby | Developing bots, websites |
 |  Language Skills  | Python, HTML, CSS |
 |  Still Learning | JS |
-|  Telegram    | [![Telegram](https://img.shields.io/badge/Sanila%20Ranatunga-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/sanilaranatunga)&nbsp;|
+|  Telegram    | [![Telegram](https://img.shields.io/badge/Sanila%20Ranatunga-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/sanilaassistant_bot)&nbsp;|
 | Github | [![Github](https://img.shields.io/badge/Github-000000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github)](https://github.com/sanila2007) |
   
 
