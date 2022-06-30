@@ -8,7 +8,6 @@
 # About me
 - 🚶‍♂️ I'm live in: Sri Lanka
 - 👨‍💻 All of my projects are available at: <a href="https://github.com/sanila2007"> here</a>
-- 📝 I’m studying in: Royal College Colombo 7
 - 🤝 I’m interested in: developing softwares.
 - ⚡ Fun fact: I'm now 15 years old boy😅
  
