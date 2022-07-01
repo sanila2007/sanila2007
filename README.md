@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanila2007&label=Profile%20views&color=0e75b6&style=flat" alt="sanila2007" /> </p>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanila2007&theme=algolia" alt="sanila2007" /></a> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanila2007&theme=monokai" alt="sanila2007" /></a> 
 # About me
 - 🚶‍♂️ I'm live in: Sri Lanka
 - 👨‍💻 All of my projects are available at: <a href="https://github.com/sanila2007"> here</a>
