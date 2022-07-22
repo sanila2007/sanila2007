@@ -1,4 +1,4 @@
-<h1>👋Hey, I'm Sanila Ranatunga</h1>
+<h1>👋Hey, I'm Sanila</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanila2007&label=Profile%20views&color=0e75b6&style=flat" alt="sanila2007" /> </p>
  
