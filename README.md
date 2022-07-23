@@ -1,6 +1,7 @@
 <h1>👋Hey, I'm Sanila</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanila2007&label=Profile%20views&color=0e75b6&style=flat" alt="sanila2007" /> </p>
+<img src='https://github-profile-trophy.vercel.app/?username=sanila2007&theme=onedark' alt="sanila ranatunga's trophies">
  
 ## About me
 - 🚶‍♂️ I'm live in: Sri Lanka
