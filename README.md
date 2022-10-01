@@ -16,7 +16,7 @@
 |------------|---------------------|
 |   Nme   | Sanila Ranatunga |
 |   Age   | 15 |
-| Hobby | Developing bots, websites |
+| Hobby | Developing softwares & bots |
 |  Language Skills  | Python, HTML, CSS, Javascript |
 |  Still Learning | Java |
 |  Telegram    | [![Telegram](https://img.shields.io/badge/Sanila%20Ranatunga-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/sanilaassistant_bot)&nbsp;|
