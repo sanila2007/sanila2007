@@ -3,15 +3,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanila2007&label=Profile%20views&color=0e75b6&style=flat" alt="sanila2007" /> </p>
 <img src='https://github-profile-trophy.vercel.app/?username=sanila2007&theme=onedark' alt="sanila ranatunga's trophies">
  
-## About me
-- 🚶‍♂️ I'm live in: Sri Lanka
-- 👨‍💻 All of my projects are available at: <a href="https://github.com/sanila2007"> here</a>
-- 🤝 I’m interested in: developing softwares.
-- ⚡ Fun fact: I'm now 15 years old boy😅
- 
+<details>
+ <summary>About me</summary>
+- 🚶‍♂️ I'm live in: Sri Lanka <br>
+- 👨‍💻 All of my projects are available at: <a href="https://github.com/sanila2007"> here</a> <br>
+- 🤝 I’m interested in: developing softwares. <br>
+- ⚡ Fun fact: I'm now 15 years old boy😅 <br>
+ </details>
+<br>
 
-<img align="center" width="100%" height="100%" src="https://telegra.ph/file/46348bc1889b6624ba6be.jpg">
-  
+
 | **** |  ****   |
 |------------|---------------------|
 |   Nme   | Sanila Ranatunga |
@@ -25,14 +26,11 @@
 
 
 
-## Contact me on
+## Contact me on :-
 <p align="left">
-<a href="https://t.me/sanilaassistant_bot" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://t.me/sanilaassistant_bot" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://t.me/sanilaassistant_bot" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://t.me/sanilaassistant_bot" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
+Telegram - <a href="https://t.me/sanilaassistant_bot" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
 <br>
-<br>
+
 
 ## My tools and languages 
 
