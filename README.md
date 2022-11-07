@@ -8,7 +8,7 @@
 <p align="left"><img src='https://github-profile-trophy.vercel.app/?username=sanila2007&theme=onedark' alt="sanila ranatunga's trophies"></p>
  
 <details>
- <summary>About me😋</summary><br>
+ <summary><b>About me</b>😋</summary><br>
 - 🚶‍♂️ I'm live in: Sri Lanka <br><br>
 - 👨‍💻 All of my projects are available at: <a href="https://github.com/sanila2007"> here</a> <br><br>
 - 🤝 I’m interested in: developing softwares. <br><br>
@@ -17,14 +17,14 @@
 <br>
 
 <details>
- <summary>Github Activity⚡</summary><br>
+ <summary><b>Github Activity</b>⚡</summary><br>
        <img src="https://img.shields.io/github/followers/sanila2007?style=for-the-badge"><br>
        <img src="https://img.shields.io/github/stars/sanila2007?style=for-the-badge"><br>
 </details> 
 <br>
 
 <details>
- <summary>Contact me on📞</summary><br>
+ <summary><b>Contact me on</b>📞</summary><br>
 <p align="left">
 Telegram - <a href="https://t.me/sanilaassistant_bot" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
 </details>
@@ -32,7 +32,7 @@ Telegram - <a href="https://t.me/sanilaassistant_bot" target="blank"><img align=
 
 
 <details>
- <summary>My tools and languages⚒️</summary><br>
+ <summary><b>My tools and languages</b>⚒️</summary><br>
 <p align ="left">
   <br />
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
