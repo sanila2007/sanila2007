@@ -19,9 +19,7 @@
 <details>
  <summary>Github Activity⚡</summary><br>
        <img src="https://img.shields.io/github/followers/sanila2007?style=for-the-badge"><br>
-       <img src="https://img.shields.io/github/last-commit/sanila2007/Feedback-Bot?label=Last%20commit%20of%20the%20feedback%20bot&style=for-the-badge"><br>
-       <img src="https://img.shields.io/github/release-date/sanila2007/Feedback-bot?label=Last%20release%20of%20the%20feedback%20bot&style=for-the-badge"><br> 
-       
+       <img src="https://img.shields.io/github/stars/sanila2007?style=for-the-badge"><br>
 </details> 
 <br>
 
