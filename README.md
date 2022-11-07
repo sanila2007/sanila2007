@@ -1,11 +1,14 @@
 <h1>👋Hey, I'm Sanila</h1>
-<p align="left"><a href="https://t.me/sanilaassistant_bot", target="_blank"><img src="https://img.shields.io/badge/Telegram-Sanila%20Ranatunga-blueviolet", alt="Sanila's telegram badge"></a></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanila2007&label=Profile%20views&color=0e75b6&style=flat" alt="sanila2007" /> </p>
-<p align="left"><a href="gttps://github.com/sanila2007"><img src="https://img.shields.io/badge/Github-000000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github"></a></p>
-<img src='https://github-profile-trophy.vercel.app/?username=sanila2007&theme=onedark' alt="sanila ranatunga's trophies">
+<p align="left"><img src="https://img.shields.io/badge/Replit-Sanila%20Ranatunga-red"></p>
+<p align="left"><a href="https://t.me/sanilaassistant_bot", target="_blank"><img src="https://img.shields.io/badge/Telegram-Sanila%20Ranatunga-blueviolet", alt="Sanila's telegram badge"></a></p>
+<p align="left"><a href="gttps://github.com/sanila2007"><img src="https://img.shields.io/badge/Github-Sanila%20Ranatunga-000000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github"></a></p>
+
+<p align="left"><img src='https://github-profile-trophy.vercel.app/?username=sanila2007&theme=onedark' alt="sanila ranatunga's trophies"></p>
  
 <details>
- <summary>About me</summary><br>
+ <summary>About me😋</summary><br>
 - 🚶‍♂️ I'm live in: Sri Lanka <br><br>
 - 👨‍💻 All of my projects are available at: <a href="https://github.com/sanila2007"> here</a> <br><br>
 - 🤝 I’m interested in: developing softwares. <br><br>
@@ -14,7 +17,7 @@
 <br>
 
 <details>
- <summary>Github Activity</summary><br>
+ <summary>Github Activity⚡</summary><br>
        <img src="https://img.shields.io/github/followers/sanila2007?style=for-the-badge"><br>
        <img src="https://img.shields.io/github/last-commit/sanila2007/Feedback-Bot?label=Last%20commit%20of%20the%20feedback%20bot&style=for-the-badge"><br>
        <img src="https://img.shields.io/github/release-date/sanila2007/Feedback-bot?label=Last%20release%20of%20the%20feedback%20bot&style=for-the-badge"><br> 
@@ -23,7 +26,7 @@
 <br>
 
 <details>
- <summary>Contact me on</summary><br>
+ <summary>Contact me on📞</summary><br>
 <p align="left">
 Telegram - <a href="https://t.me/sanilaassistant_bot" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
 </details>
@@ -31,7 +34,7 @@ Telegram - <a href="https://t.me/sanilaassistant_bot" target="blank"><img align=
 
 
 <details>
- <summary>My tools and languages</summary><br>
+ <summary>My tools and languages⚒️</summary><br>
 <p align ="left">
   <br />
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
@@ -48,25 +51,24 @@ Telegram - <a href="https://t.me/sanilaassistant_bot" target="blank"><img align=
   <br>
 </p>  
 </details>  
- 
-<br>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanila2007&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sanila2007" /></p>
-<br>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanila2007&show_icons=true&theme=dracula&locale=en" alt="sanila2007" /></p>
-<br><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanila2007&theme=highcontrast" alt="sanila2007" /></p>
+
 
 ### Contribution Graph:
 
-
 <a href="https://github.com/sanila2007"><img alt="Sanila's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sanila2007&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-  <summary>Activity Metrics</summary>
-  <br/>
+### Activity Metrics
+
 <p align="left"> <a href="https://github.com/sanila2007"><img src="https://metrics.lecoq.io/sanila2007?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta" alt="sanila2007" /></a> </p>
 
+
+
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanila2007&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sanila2007" /></p>
+<br>
+
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanila2007&show_icons=true&theme=dracula&locale=en" alt="sanila2007"/></p>
+<br><br>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanila2007&theme=highcontrast" alt="sanila2007" /></p>
 
 
 <!---
