@@ -1,39 +1,37 @@
 <h1>👋Hey, I'm Sanila</h1>
-
+<p align="left"><a href="https://t.me/sanilaassistant_bot", target="_blank"><img src="https://img.shields.io/badge/Telegram-Sanila%20Ranatunga-blueviolet", alt="Sanila's telegram badge"></a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanila2007&label=Profile%20views&color=0e75b6&style=flat" alt="sanila2007" /> </p>
+<p align="left"><a href="gttps://github.com/sanila2007"><img src="https://img.shields.io/badge/Github-000000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github"></a></p>
 <img src='https://github-profile-trophy.vercel.app/?username=sanila2007&theme=onedark' alt="sanila ranatunga's trophies">
  
 <details>
- <summary>About me</summary>
-- 🚶‍♂️ I'm live in: Sri Lanka <br>
-- 👨‍💻 All of my projects are available at: <a href="https://github.com/sanila2007"> here</a> <br>
-- 🤝 I’m interested in: developing softwares. <br>
-- ⚡ Fun fact: I'm now 15 years old boy😅 <br>
+ <summary>About me</summary><br>
+- 🚶‍♂️ I'm live in: Sri Lanka <br><br>
+- 👨‍💻 All of my projects are available at: <a href="https://github.com/sanila2007"> here</a> <br><br>
+- 🤝 I’m interested in: developing softwares. <br><br>
+- ⚡ Fun fact: Nothing <br><br>
  </details>
 <br>
 
+<details>
+ <summary>Github Activity</summary><br>
+       <img src="https://img.shields.io/github/followers/sanila2007?style=for-the-badge"><br>
+       <img src="https://img.shields.io/github/last-commit/sanila2007/Feedback-Bot?label=Last%20commit%20of%20the%20feedback%20bot&style=for-the-badge"><br>
+       <img src="https://img.shields.io/github/release-date/sanila2007/Feedback-bot?label=Last%20release%20of%20the%20feedback%20bot&style=for-the-badge"><br> 
+       
+</details> 
+<br>
 
-| **** |  ****   |
-|------------|---------------------|
-|   Nme   | Sanila Ranatunga |
-|   Age   | 15 |
-| Hobby | Developing softwares & bots |
-|  Language Skills  | Python, HTML, CSS, Javascript |
-|  Still Learning | Java |
-|  Telegram    | [![Telegram](https://img.shields.io/badge/Sanila%20Ranatunga-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/sanilaassistant_bot)&nbsp;|
-| Github | [![Github](https://img.shields.io/badge/Github-000000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github)](https://github.com/sanila2007) |
-  
-
-
-
-## Contact me on :-
+<details>
+ <summary>Contact me on</summary><br>
 <p align="left">
 Telegram - <a href="https://t.me/sanilaassistant_bot" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
+</details>
 <br>
 
 
-## My tools and languages 
-
+<details>
+ <summary>My tools and languages</summary><br>
 <p align ="left">
   <br />
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
@@ -49,6 +47,8 @@ Telegram - <a href="https://t.me/sanilaassistant_bot" target="blank"><img align=
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
   <br>
 </p>  
+</details>  
+ 
 <br>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanila2007&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sanila2007" /></p>
