@@ -11,7 +11,7 @@
  <summary><b>About me</b>😋</summary><br>
 - 🚶‍♂️ I'm live in: Sri Lanka <br><br>
 - 👨‍💻 All of my projects are available at: <a href="https://github.com/sanila2007"> here</a> <br><br>
-- 🤝 I’m interested in: developing softwares. <br><br>
+- 🤝 I’m interested in: Developing bots. <br><br>
 - ⚡ Fun fact: Nothing <br><br>
  </details>
 <br>
