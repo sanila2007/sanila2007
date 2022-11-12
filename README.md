@@ -49,6 +49,23 @@ Telegram - <a href="https://t.me/sanilaassistant_bot" target="blank"><img align=
   <br>
 </p>  
 </details>  
+<br>
+<details>
+ <summary><b>Database</b>🔥 </summary><br>
+ <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"><br>
+ <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"><br>
+</details>
+<br>
+<details>
+ <summary><b>IDE</b>🧑‍💻</summary><br>
+ <p align="left"><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"></p>
+ <p align="left"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></p>
+ <p align="left"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"></p>
+</details>
+
+### Most used languages
+
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanila2007"></p>
 
 
 ### Contribution Graph:
@@ -59,9 +76,6 @@ Telegram - <a href="https://t.me/sanilaassistant_bot" target="blank"><img align=
 
 <p align="left"> <a href="https://github.com/sanila2007"><img src="https://metrics.lecoq.io/sanila2007?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta" alt="sanila2007" /></a> </p>
 
-
-
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanila2007&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sanila2007" /></p>
 <br>
 
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanila2007&show_icons=true&theme=dracula&locale=en" alt="sanila2007"/></p>
