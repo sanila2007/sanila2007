@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanila2007&label=Profile%20views&color=0e75b6&style=flat" alt="sanila2007" /> </p>
 <p align="left"><img src="https://img.shields.io/badge/Replit-Sanila%20Ranatunga-red"></p>
-<p align="left"><a href="https://t.me/sanilaassistant_bot", target="_blank"><img src="https://img.shields.io/badge/Telegram-Sanila%20Ranatunga-blueviolet", alt="Sanila's telegram badge"></a></p>
+<p align="left"><a href="https://t.me/SanilaRanatunga", target="_blank"><img src="https://img.shields.io/badge/Telegram-Sanila%20Ranatunga-blueviolet", alt="Sanila's telegram badge"></a></p>
 <p align="left"><a href="gttps://github.com/sanila2007"><img src="https://img.shields.io/badge/Github-Sanila%20Ranatunga-000000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github"></a></p>
 
 <p align="left"><img src='https://github-profile-trophy.vercel.app/?username=sanila2007&theme=onedark' alt="sanila ranatunga's trophies"></p>
@@ -18,7 +18,7 @@
 <details>
  <summary><b>Contact me on</b>📞</summary><br>
 <p align="left">
-Telegram - <a href="https://t.me/sanilaassistant_bot" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
+Telegram - <a href="https://t.me/SanilaRanatunga" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
 </details>
 <br>
 
