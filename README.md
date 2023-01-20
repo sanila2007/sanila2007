@@ -8,11 +8,12 @@
 <p align="left"><img src='https://github-profile-trophy.vercel.app/?username=sanila2007&theme=onedark' alt="sanila ranatunga's trophies"></p>
  
 
-<details>
- <summary><b>Github Activity</b>⚡</summary><br>
-       <img src="https://img.shields.io/github/followers/sanila2007?style=for-the-badge"><br>
-       <img src="https://img.shields.io/github/stars/sanila2007?style=for-the-badge"><br>
-</details> 
+### Recent Github Activity⚡<br>
+1. ⚒️ Closed issue <a href="https://github.com/sanila2007/feedback-bot/issues/6">#6</a> in <a href="https://github.com/sanila2007/feedback-bot">sanila2007/feedback-bot</a>
+2. 🎉 Released v1.9.3 in <a href="https://github.com/sanila2007/feedback-bot">sanila2007/feedback-bot</a>
+3. ❗ Closed 1 pull request in <a href="https://github.com/sanila2007/Youtube_bot_telegram">sanila2007/youtube-bot</a>
+4. 🆕 Created 1 repository:- <a href="https://github.com/sanila2007/telegram-lyrics-bot">sanila2007/telegram-lyrics-bot</a>
+5. 🆕 Created 1 repository:- <a href="https://github.com/sanila2007/Youtube_bot_telegram">sanila2007/youtube-bot</a>
 <br>
 
 <details>
