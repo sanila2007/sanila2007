@@ -50,7 +50,7 @@ Telegram - <a href="https://t.me/SanilaRanatunga" target="blank"><img align="cen
 </details>
 <br>
 <details>
- <summary><b>IDE</b>🧑‍💻</summary><br>
+ <summary><b>IDLE</b>🧑‍💻</summary><br>
  <p align="left"><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"></p>
  <p align="left"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></p>
  <p align="left"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"></p>
