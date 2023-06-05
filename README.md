@@ -9,7 +9,7 @@
  
 
 ### Recent Github Activity⚡<br>
-1. 🆕 New Application:-  <a href="https://github.com/sanila2007/tkinter-notepad">sanila2007/tkinter-notepad</a>
+1. 🆕 New Application <a href="https://github.com/sanila2007/tkinter-notepad">sanila2007/tkinter-notepad</a>
 1. ⚒️ Closed issue <a href="https://github.com/sanila2007/YouTube_bot_telegram/issues/3">#3</a> in <a href="https://github.com/sanila2007/YouTube_bot_telegram">sanila2007/youtube-bot</a>
 2. ⚒️ Closed issue <a href="https://github.com/sanila2007/feedback-bot/issues/6">#6</a> in <a href="https://github.com/sanila2007/feedback-bot">sanila2007/feedback-bot</a>
 3. 🎉 Released v1.9.3 in <a href="https://github.com/sanila2007/feedback-bot">sanila2007/feedback-bot</a>
